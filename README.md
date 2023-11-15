@@ -21,7 +21,7 @@ rm /etc/systemd/system/hysteria-server.service
 
 // Download the script
 ```
-wget https://github.com/mahpud896/HYSTERIA-UDP/raw/main/install_namydev.sh
+wget https://raw.githubusercontent.com/sangrepollo/ramon/main/install_namydev.sh
 ```
 // Edit script configuration 
 ```
@@ -32,15 +32,3 @@ nano install_namydev.sh
 chmod +x install_namydev.sh; ./install_namydev.sh
 ```
 
-## :octocat: by NAMYDEV
-<ul>
- <li>TELEGRAM CHANNEL: https://t.me/mb2vpn</li>
- <li>FACEBOOK: https://www.facebook.com/mahpud896.me</li>
- <li>INSTAGRAM: https://www.instagram.com/mahpud896</li>
- <li>TWITTER: https://www.twitter.com/mahpud_896</li>
- 
- </ul>
- 
-## :octocat: Credits
-
-1. [@mb2vpn )
