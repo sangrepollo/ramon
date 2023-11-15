@@ -13,7 +13,7 @@ set -e
 ###
 
 # Domain Name
-DOMAIN="getnamydev.site"
+DOMAIN="46.21.157.230"
 
 # PROTOCOL
 PROTOCOL="udp"
@@ -668,7 +668,7 @@ tpl_hysteria_server_x_service() {
 tpl_etc_hysteria_config_json() {
   cat << EOF
 {
-  "server": "getnamydev.site",
+  "server": "46.21.157.230",
    "listen": "$UDP_PORT",
   "protocol": "$PROTOCOL",
   "cert": "/etc/hysteria/hysteria.server.crt",
