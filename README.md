@@ -38,4 +38,4 @@ chmod +x install_namydev.sh; ./install_namydev.sh
  
 ## :octocat: Credits
 
-1. [@apernet )
+1. [@mb2vpn )
