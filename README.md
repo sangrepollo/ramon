@@ -10,6 +10,11 @@ THIS IS A SCRIPT FOR AUTO INSTALLATION OF UDP (HYSTERIA SERVER)
 <a href="https://play.google.com/store/apps/details?id=com.mb.injector"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="100"></a>
 </p>
 
+------- Remove old installation by running these commands:-------
+
+rm /usr/local/bin/hysteria
+
+rm /etc/systemd/system/hysteria-server.service
 
 # Installation
 
